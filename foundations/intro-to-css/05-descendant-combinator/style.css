@@ -3,6 +3,7 @@ body {
 }
 
 .container p {
+    /* Add background color to avoid eye strain */
     background-color: yellow;
     color: red;
     font-size: 20px;
